@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 7511
+const port = 7512
 
 const data_users = [
     { id: 1, name: "Rafif", alamat: "Vegas" },
